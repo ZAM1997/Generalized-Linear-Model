@@ -13,7 +13,7 @@
 ### Data Files and Basic Information
 * **The project consists of building a generealized Linear model for the [Data](https://github.com/ZAM1997/Generalized-Linear-Model/blob/main/loan_clean.csv)**
 
-### Real World Risks**:
+### Real World Risks:
 * **The model is just intended for educational purposes and cannot be used for any business decisions**
 
 ### Metrics Used
